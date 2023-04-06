@@ -6,7 +6,7 @@
       "lastname": "Doe",
       "speciality": "Cardiologist",
       "experience": 10,
-      "consultarion": 30,
+      "consultation": 30,
       "image": "https://i.ibb.co/BKtFHMD/5ec52b58878c.jpg"
     },
     {
@@ -15,7 +15,7 @@
       "lastname": "Doe",
       "speciality": "Dermatology",
       "experience": 5,
-      "consultarion": 20,
+      "consultation": 20,
       "image": "https://i.ibb.co/ZNF36Hj/f0acdc813c91.jpg"
     },
     {
@@ -23,7 +23,7 @@
       "lastname": "Doe",
       "speciality": "Pediatrics",
       "experience": 15,
-      "consultarion": 40,
+      "consultation": 40,
       "image": "https://i.ibb.co/WHfYw9M/ba500c7046d5.jpg",
       "id": 3
     }
