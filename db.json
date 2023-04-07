@@ -26,6 +26,35 @@
       "consultation": 40,
       "image": "https://i.ibb.co/WHfYw9M/ba500c7046d5.jpg",
       "id": 3
+    },
+    {
+      "name": "Michael",
+      "lastname": "Doe",
+      "speciality": "Urology",
+      "experience": 20,
+      "consultation": 60,
+      "image": "https://i.ibb.co/RyZMPVv/9fbeaf11ffcf.jpg",
+      "id": 4
+    }
+  ],
+  "reservations": [
+    {
+      "id": 1,
+      "city": "Berlin",
+      "datetime": "2023-04-10T12:00",
+      "doctor": "Dr. JOHN DOE"
+    },
+    {
+      "id": 2,
+      "city": "Madrid",
+      "datetime": "2023-04-10T20:00",
+      "doctor": "Dr. SUMMER DOE"
+    },
+    {
+      "id": 3,
+      "city": "Paris",
+      "datetime": "2023-04-12T10:00",
+      "doctor": "Dr. SPRING DOE"
     }
   ]
 }
