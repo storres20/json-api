@@ -56,5 +56,19 @@
       "datetime": "2023-04-12T10:00",
       "doctor": "Dr. SPRING DOE"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "Raymond"
+    },
+    {
+      "id": 2,
+      "username": "Boaz"
+    },
+    {
+      "id": 3,
+      "username": "Italo"
+    }
   ]
 }
