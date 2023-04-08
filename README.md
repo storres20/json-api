@@ -1,9 +1,13 @@
 # json-api
 JSON-API is a backend application for everyone who needs a fazt an easy API based on JSON
 
-- Deploy JSON-API on RENDER.COM
+- Deploy JSON-API on RENDER.COM (slow)
 
   - Link: https://www.youtube.com/watch?v=EcxYcpF3W7c
+  
+- Deploy JSON-API on VERCEL (fast)
+
+  - Link: https://youtu.be/A--aYRbzKdU
 
 - Build a fast and easy API with JSON-SERVER
 
